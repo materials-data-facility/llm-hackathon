@@ -1,5 +1,12 @@
 # LLM March Madness Materials and Chemistry Hackathon
 
+## Registration
+
+**Individual**
+Registration for all is free. To register, RSVP at:
+
+**Team** 
+Team registration is free, and can be completed via Miro. You will have access to the Miro board after registration. 
 
 ## Schedule
 * This table will be updated with times and virtual locations soon...
@@ -23,8 +30,11 @@ To submit a video, we recommend publishing to YouTube, LinkedIn, Twitter or othe
 
 ## Judges
 
+
+
 ## Resources
-This will be a compiled list of resources including data and software most useful to training your LLMs
+- This will be a compiled list of resources including data and software most useful to training your LLMs
+- To add a resource, submit a PR to this repo
 
 ## Sponsors
 - The Materials Research Coordination Network (MaRCN)

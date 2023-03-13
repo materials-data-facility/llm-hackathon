@@ -19,10 +19,12 @@ Team registration is free, and can be completed via Miro. You will have access t
 | Prizes Announced    | March 30th       |          |
 
 
-# Submission Details
+## Submission Details
 Submissions will be in the form of 2 minute videos. Videos should include all relevant information needed by the judges. If (and only if) the video is submitted publicly via social media, the text included in the team's announcement will be included in the scoring process. No other materials will be accepted.
 
 To submit a video, we recommend publishing to YouTube, LinkedIn, Twitter or other social platforms with video capabilities.
+
+## Prizes
 
 
 ## Judging Criteria

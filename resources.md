@@ -36,6 +36,9 @@ menu_icon: journal-code
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of my favorite examples in our preprint (<a href="https://t.co/ojby0bSaoj">https://t.co/ojby0bSaoj</a>) with <a href="https://twitter.com/SmitBerend?ref_src=twsrc%5Etfw">@SmitBerend</a> and <a href="https://twitter.com/pschwllr?ref_src=twsrc%5Etfw">@pschwllr</a> and @aortegaguerrerowas about photoswitches curated by <a href="https://twitter.com/Ryan__Rhys?ref_src=twsrc%5Etfw">@Ryan__Rhys</a>.<br><br>I now asked <a href="https://twitter.com/hashtag/GPT?src=hash&amp;ref_src=twsrc%5Etfw">#GPT</a>-4 a few questions about it. <a href="https://t.co/O7O1078mib">pic.twitter.com/O7O1078mib</a></p>&mdash; Kevin Jablonka (@kmjablonka) <a href="https://twitter.com/kmjablonka/status/1635794978936066049?ref_src=twsrc%5Etfw">March 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </li>
 
+### [MARVIS](https://github.com/whitead/marvis) --- Text/Voice-control for VMD.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s a text demo of Marvis from <a href="https://twitter.com/glenhocky?ref_src=twsrc%5Etfw">@glenhocky</a> and me. Info: <a href="https://t.co/DQLKYpwZsX">https://t.co/DQLKYpwZsX</a> Code: <a href="https://t.co/LjzwjS4zR9">https://t.co/LjzwjS4zR9</a> <a href="https://t.co/wn3PNBrpmb">pic.twitter.com/wn3PNBrpmb</a></p>&mdash; Andrew White ⏣🧪 (@andrewwhite01) <a href="https://twitter.com/andrewwhite01/status/1392517379326894080?ref_src=twsrc%5Etfw">May 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <li class="resource-block" markdown="1">
 ## Guidelines

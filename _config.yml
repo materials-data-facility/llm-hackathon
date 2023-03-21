@@ -1,0 +1,67 @@
+title: LLM in Chemistry and Materials
+nav_title: LLM in Chemistry and Materials
+
+event_date: Mar 29-30
+registration_opens_date: 15 March 2023
+registration_closes_date: 29 April 2023
+
+author:
+mailbox_address:
+
+description: |
+  The LLM March Madness Materials / Chemistry Hackathon is a virtual hackathon designed to explore and showcase innovative applications of large language models in the fields of materials science and chemistry.
+
+url: "https://materials-data-facility/llm-hackathon"
+github_repo: materials-data-facility
+
+theme: minima
+
+# The actual visibility of the nav bar links is influenced by the event_status
+# and registration_status flags below
+header_pages:
+  - registration.md
+  - resources.md
+  - about.md
+
+# Event status
+#   soon = event is yet to happen
+#    now = event is currently happening
+#   over = event has happened
+#  (demo = show all pages to demonstrate the template)
+event_status: soon
+
+# Open and close the registration form
+#   soon = Registration has not yet opened
+#   open = Registration form is open
+# closed = Registration form is now closed
+#  (demo = show all pages to demonstrate the template)
+registration_status: open
+
+# Remove ".html" from default permalinks
+permalink: pretty
+
+# (See default layout below)
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Social media links
+# (See default layout below)
+twitter:
+  card: summary_large_image
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/advert.png
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Simplify tables of contents
+kramdown:
+  toc_levels: "2,3"

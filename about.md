@@ -55,4 +55,33 @@ To contact us about the hackathon, please contact us on Twitter or Slack. -->
             <br>PhD Student
         </td>
     </tr>
+    <tr>
+        <td>
+            <img alt="KJ Schmidt" src="../assets/kj.jpg">
+        </td>
+        <td>
+            <strong>KJ Schmidt</strong>
+            <span class="profile-links">
+                <a title="Website" href="http://kjschmidt.us/"><i class="bi bi-globe2"></i></a>
+                <a title="GitHub" href="https://github.com/kjschmidt913"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/kj_schmidt"><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>University of Chicago/Argonne National Lab
+            <br>Research Scientist
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <img alt="Ari Scourtas" src="../assets/ari.jpg">
+        </td>
+        <td>
+            <strong>Aristana Scourtas</strong>
+            <span class="profile-links">
+                <a title="GitHub" href="https://github.com/ascourtas"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/aristana_s"><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>University of Chicago/Argonne National Lab
+            <br>Research Scientist
+        </td>
+    </tr>
 </table>

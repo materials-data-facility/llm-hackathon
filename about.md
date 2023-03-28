@@ -57,7 +57,7 @@ To contact us about the hackathon, please contact us on Twitter or Slack. -->
     </tr>
     <tr>
         <td>
-            <img alt="KJ Schmidt" src="../assets/kj.jpg">
+            <img alt="KJ Schmidt" src="../assets/kj.jpeg">
         </td>
         <td>
             <strong>KJ Schmidt</strong>
@@ -72,7 +72,7 @@ To contact us about the hackathon, please contact us on Twitter or Slack. -->
     </tr>
         <tr>
         <td>
-            <img alt="Ari Scourtas" src="../assets/ari.jpg">
+            <img alt="Ari Scourtas" src="../assets/ari.JPG">
         </td>
         <td>
             <strong>Aristana Scourtas</strong>
